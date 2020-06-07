@@ -1,5 +1,5 @@
 # Terminals in Sublime Text
-This repo contains some JSON code to help you add terminals to Sublime Text 3.
+This resitorypo contains some JSON code to help you add terminals to Sublime Text 3.
 
 ## Requirements
 Windows operating system.  
